@@ -1,10 +1,7 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: Contact
+bg_image: images/2020-landscape-2.png
+description: Learn more about Consequence Design
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+---
+[Contact Ron](mailto:ronald.bronson@pm.me)
