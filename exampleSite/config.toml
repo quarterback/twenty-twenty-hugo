@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://consequencedesign.org"
 title = "Twenty Twenty Hugo"
 theme = "twentytwenty"
 languageName = "En"
@@ -110,7 +110,7 @@ title = "About This Site"
 content = "This may be a good place to introduce yourself and your site or include some credits."
 address = "123 Main Street <br> New York, NY 10001"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+copyright = ""
 
 ############################# social site ########################
 [params.social]
