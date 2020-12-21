@@ -1,6 +1,5 @@
 ---
 title: About Consequence Design
-description: What is it?
+description: ''
 
 ---
-Consequence Design is a strategic design framework aimed at uncovering the perils of design frictions. 
