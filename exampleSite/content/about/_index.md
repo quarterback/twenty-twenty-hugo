@@ -1,9 +1,6 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About Consequence Design
+description: What is it?
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+Consequence Design is a strategic design framework aimed at uncovering the perils of design frictions. 
