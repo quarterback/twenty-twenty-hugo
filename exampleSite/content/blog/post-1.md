@@ -4,12 +4,9 @@ date: 2020-04-25T07:00:00+00:00
 image: "/images/neonbrand-cmz06-0btw-unsplash.jpg"
 author:
 - Admin
-categories:
-- Working days
-tags:
-- work
-- day
-description: This is meta description
+categories: []
+tags: []
+description: Discussing consequence design - a primer
 
 ---
 I think consequence design is the doormat in front of the door that when you look underneath, insects who weren’t visible scurry in all directions.
